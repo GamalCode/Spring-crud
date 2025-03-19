@@ -1,2 +1,2 @@
 # Spring-demo-crud
-Renewed via Spring Boot
+CRUD actions via SpringBoot, connection to PostgreSQL DB (DataGrip)
